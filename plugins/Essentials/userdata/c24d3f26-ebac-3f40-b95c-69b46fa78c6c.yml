@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1740935944718
+  lastteleport: 1741114466859
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740937491539
-  login: 1740928171513
+  logout: 1741114525812
+  login: 1741106632017
 money: '0'
 last-account-name: ChuoiBacSI
 lastlocation:
   world: 26b78b48-bd7f-4fb6-9f9f-f467f3899bbf
   world-name: world
-  x: 1703.4381106186154
-  y: 87.0
-  z: 940.7091404243846
-  yaw: 67.48974609375
-  pitch: 40.649898529052734
+  x: 1660.5
+  y: 78.0
+  z: 922.5
+  yaw: -180.0
+  pitch: 0.0
 logoutlocation:
   world: 26b78b48-bd7f-4fb6-9f9f-f467f3899bbf
   world-name: world
-  x: 1754.1130459635958
-  y: 60.0
-  z: 1138.6803006319687
-  yaw: -50.8690185546875
-  pitch: 58.199989318847656
+  x: 1699.300000011921
+  y: 70.0
+  z: 961.7764415326786
+  yaw: -40.19799041748047
+  pitch: 27.300003051757812
