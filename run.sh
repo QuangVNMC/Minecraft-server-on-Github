@@ -1,1 +1,0 @@
-java -Xms13G -jar purpur.jar
