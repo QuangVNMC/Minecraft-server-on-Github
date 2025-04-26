@@ -1,7 +1,0 @@
-{
-  "enableMoneyPayment": true,
-  "money": 10000,
-  "enableLevelPayment": true,
-  "level": 30,
-  "version": 1
-}

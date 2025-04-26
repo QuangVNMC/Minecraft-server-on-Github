@@ -1,7 +1,0 @@
-isEnabled: true
-structureType:
-- SKY
-validWorldEnvironments:
-- NETHER
-validBiomesV2: []
-treasureFilename: treasure_nether.yml
